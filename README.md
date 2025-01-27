@@ -2,7 +2,7 @@
 
 Submitted by: **Marco Quintero**
 
-**Codepath-Project** is an app that... [TODO] 
+**Codepath-Project** is an app that includes 3 labels and 1 button that changes the background color
 
 Time spent: **2** hours spent in total
 
